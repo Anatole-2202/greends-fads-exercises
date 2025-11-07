@@ -2,8 +2,8 @@
 ## this is a second level title 
 
 ### this is a third level title 
-the following two words are in ** bold typeface **, but the rest are not 
-the following two words are in * italic typeface * but the rest are not
+the following two words are in **bold typeface**, but the rest are not 
+the following two words are in *italic typeface* but the rest are not
 
 > text blockquote 
 
@@ -35,3 +35,4 @@ we can create tables by doing :
 |--|---------|---------|---------|
 |1 | item 1  | item 2  | item 3  |
 |2 | item 4  | item 5  | item 6  |
+
